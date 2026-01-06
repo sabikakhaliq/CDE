@@ -7,3 +7,4 @@ alone
 together
 cat
 dog
+bird
