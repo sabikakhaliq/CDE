@@ -6,3 +6,4 @@ salsa
 alone
 together
 cat
+dog
